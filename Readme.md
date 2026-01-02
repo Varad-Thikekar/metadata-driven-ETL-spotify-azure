@@ -15,6 +15,7 @@ The pipeline implements a modern data stack focusing on scalability, data govern
 * **DevOps:** Databricks Asset Bundles (DABs) & GitHub CI/CD
 
 ![Spotify Data Pipeline](images/Azure-Spotify-Pipeline.png)
+
 ---
 
 ## 🛠️ Technical Deep Dive
